@@ -26,7 +26,7 @@ This is a console-based **Library Management System** implemented in C++. The ap
    ```
 2. Compile the code:
    ```bash
-   g++ -o library library.cpp
+   g++ -o library lib_manage.cpp
    ```
 3. Run the executable:
    ```bash
