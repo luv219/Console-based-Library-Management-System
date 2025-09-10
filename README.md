@@ -86,6 +86,3 @@ Book added successfully. ID: 1
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the existing style and includes appropriate comments.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
